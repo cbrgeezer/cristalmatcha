@@ -1,5 +1,7 @@
 export const landingProducts = [
   {
+    id: 1,
+    slug: "ritual-blend",
     name: "The Ritual Blend",
     meta: "30g • Ceremonial Grade",
     price: "£42.00",
@@ -11,6 +13,8 @@ export const landingProducts = [
       "https://lh3.googleusercontent.com/aida-public/AB6AXuDhUCZS6HL1mEASJntHdHlW7z2LiJu_NzSdbFhpOTvd76WgCqbrS7A073KcTEMrILgKUdYbYvy9hQdGF4gEx-la6y7cBfOQ63QVBfhA6aqanS6ycvpvXt0nppSXUh5YvDmyQheiH408DeOXNPSqZGImaKE0VRVXDp2wehrpAB-kZt3WnVzjghamK6Ri_zm7WebR6da8AruvrmB5Q0qKFhxfZn4BvORyrhq4WZkNhxq9wQ48djA16oV8sXDQ7Q68Cv5rSxQFE1OABc0",
   },
   {
+    id: 2,
+    slug: "heritage-harvest",
     name: "Heritage Harvest",
     meta: "30g • Single Estate",
     price: "£58.00",
@@ -21,6 +25,8 @@ export const landingProducts = [
       "https://lh3.googleusercontent.com/aida-public/AB6AXuDS020qbIWOg-7cwbTMkysYDPeJIurr7JXXvcoKSux8fnPFL5f0YnWuXCbV29aqWSRrwZ6LS5XPPCLaIjh0Hz9egQ9xXPMvF5kTrR5a6LBSejvqoJdPqKSZzVQ2Y7WGDtqpkx6tT0p_t7yrEMTegkz3BjNMDEkcnUHDvsX8Iar82ycVrZE9DmQdeVVCzSu0RBwk003fKI2xi_rlbhT7KaMz7kkZ-WxdinQTh70_Uk_SVtWYPqJGOagImInGpMpZyPDRfnoMSCSQBlo",
   },
   {
+    id: 3,
+    slug: "essentials-kit",
     name: "Essentials Kit",
     meta: "Chasen & Bowl Set",
     price: "£85.00",
