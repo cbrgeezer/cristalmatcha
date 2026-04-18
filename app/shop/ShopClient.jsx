@@ -156,7 +156,10 @@ export default function ShopClient({ products }) {
           <div className="catalog-grid">
             {filtered.map((product) => (
               <article key={product.name} className="catalog-card">
-                <a href="/products/ceremonial-grade" className="catalog-image-wrap">
+                <a
+                  href={`/products/${product.slug ?? "ceremonial-grade"}`}
+                  className="catalog-image-wrap"
+                >
                   <img src={product.image} alt={product.name} loading="lazy" />
                   {product.badge ? (
                     <span className="badge-chip">{product.badge}</span>
