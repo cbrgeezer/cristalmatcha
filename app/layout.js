@@ -9,10 +9,23 @@ export const metadata = {
   },
   description:
     "Premium Japanese matcha in Norwich. Discover ceremonial grade tea, tea education, and the Cristal Matcha collection.",
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     siteName: "Cristal Matcha",
     locale: "en_GB",
     type: "website",
+    url: "/",
+    title: "Cristal Matcha | Premium Japanese Matcha",
+    description:
+      "Premium Japanese matcha in Norwich. Ceremonial grade tea, sourced from Uji, Japan.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Cristal Matcha | Premium Japanese Matcha",
+    description:
+      "Premium Japanese matcha in Norwich. Ceremonial grade tea, sourced from Uji, Japan.",
   },
   icons: {
     icon: "/favicon.png",

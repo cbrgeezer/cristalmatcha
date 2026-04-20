@@ -40,6 +40,7 @@ export const landingProducts = [
 
 export const catalogProducts = [
   {
+    slug: "morning-ritual",
     name: "Morning Ritual",
     meta: "CEREMONIAL GRADE • 30g",
     price: "£42.00",
@@ -51,6 +52,7 @@ export const catalogProducts = [
       "https://lh3.googleusercontent.com/aida-public/AB6AXuA7m2cbdivjykV5bSTknoJFi_rKyA46pJVIeMOOcEsoI2Galg008RPfNlRRSLo19umR0VZHVmhjWqEzwOh64a87pDiM9jvZILD0KSSKjy1YoBIFsiA0XMk2xQWVSLecIgTjMNrIDmmaC4dEBP5D3DCFiuKY0U9NCwAmTAxr7OD904u0sFm1OahJ9yFTfdT_YiKR8pMnjor9M1AzK7KWBPbLJOYl3N18n3z8ib2sWy6w49HwGTE2-gdFbp9Wu9EO32Nuc50BVtg2rnk",
   },
   {
+    slug: "artisan-whisk",
     name: "The Artisan Whisk",
     meta: "HAND-CARVED BAMBOO",
     price: "£28.00",
@@ -61,6 +63,7 @@ export const catalogProducts = [
       "https://lh3.googleusercontent.com/aida-public/AB6AXuAHQ3U15ZDTQHCUfmrx7wvl-Tk5okGh-r7M2UPKoUHpm8hH6cjc29i8JgUa2swCW990eJSO3q6AdT_FMGBsuL4F0gOHQ9528Au3bjSyfCvLO7G4ud9dNI9bfFRJpfvbbGDTjkcwB1d3uodmfPNatqE-lmGnsYjetXDgr8W1QIhuZ1fKFhfBZPGxVuhgixaPGJc3auAl2-c-GKabphSfTArF8ui4tBMBwLyZtWW3FQ5SvzFW6SpvZtJ7OrRKkRkmRHB52ZDi9Il9yqU",
   },
   {
+    slug: "imperial-reserve",
     name: "Imperial Reserve",
     meta: "SINGLE ORIGIN • 20g",
     price: "£85.00",
